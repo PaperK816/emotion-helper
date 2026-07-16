@@ -42,7 +42,6 @@
 
 ## 项目结构
 
-`
 emotion-helper/
 ├── main.py                    # 程序入口
 ├── requirements.txt           # Python依赖
@@ -63,7 +62,6 @@ emotion-helper/
 ├── data/                      # 数据目录（运行时创建）
 ├── docs/                      # 项目文档
 └── logs/                      # 开发日志
-`
 
 ## 技术栈
 
